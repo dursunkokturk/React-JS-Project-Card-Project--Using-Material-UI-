@@ -3,9 +3,6 @@ import CardContent from '@mui/material/CardContent';
 import CardMedia from '@mui/material/CardMedia';
 import Typography from '@mui/material/Typography';
 
-// App.js Dosyasi Icinde Olusturulan
-// Grid Yapisi Icinde Bulunan Card larin Ve Iceriklerin
-// Ekranda Gorunmesi Icin Course.js Dosyasi Icinde Dondurulmesi Gerekiyor
 function Course({ image, title, description }) {
     return (
         <Card>

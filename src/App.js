@@ -13,20 +13,10 @@ function App() {
     return (
         <div>
             <AppBar>
-
-                {/* Kart Görünümüm Üstünde Yer Alacak 
-                  Başlık Bolumunu Olusturuyoruz */}                
                 <Toolbar sx={{ fontSize: 30 }}>Kart Projesi</Toolbar>
             </AppBar>
             <Container maxWidth="lg">
                 <Grid container spacing={2} sx={{ marginTop: 10 }}>
-
-                    {/* xs Attribtue Ile 
-                        En Buyuk Ekrana Gore Boyutlandirma Yapiyoruz */}
-                    {/* md Attribtue Ile 
-                        Orta Boyutlu Ekrana Gore Boyutlandirma Yapiyoruz */}
-                    {/* lg Attribtue Ile 
-                        En Kucuk Ekrana Gore Boyutlandirma Yapiyoruz */}
                     <Grid item xs={12} md={6} lg={3}>
                         <Course image={Angular}
                                 title="Angular"
