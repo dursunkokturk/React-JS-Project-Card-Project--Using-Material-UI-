@@ -3,6 +3,15 @@
 
 ![alt text](/ss/ss2.jpg)
 
+# Grid Kullanımı
+Grid yapısı kullanılarak ekranı gerektiği kadar eşit parçaya bölüyoruz.
+
+# Card Kullanımı
+Card yapısını kullanarak grid yapısı içinde verileri yerleştirme.
+
+
+=================================================================================================================================================================================================================================
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
