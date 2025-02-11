@@ -3,6 +3,19 @@
 
 ![alt text](/ss/ss2.jpg)
 
+# Grid Usage
+Using the Grid structure, we divide the screen into as many equal parts as needed.
+
+# Card Usage
+Placing data in a grid structure using the Card structure.
+
+# Steps in the Creation of the Project
+* Usage React framework,
+* Using material ui grid component structure.
+* Printing title using material ui toolbar component structure in material ui appbar component structure.
+* Making CSS process using material ui container.
+* Pring course information using a course attribute.
+
 # Grid Kullanımı
 Grid yapısı kullanılarak ekranı gerektiği kadar eşit parçaya bölüyoruz.
 
